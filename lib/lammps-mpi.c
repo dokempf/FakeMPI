@@ -12,7 +12,7 @@
 
 /* Single-processor "stub" versions of MPI routines */
 
-#include "mpi.h"
+#include "lammps-mpi.h"
 
 #include <stdint.h>
 #include <stdio.h>
